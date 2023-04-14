@@ -24,3 +24,9 @@
 -   Alcohol_Consump: Frequency of alcohols consumption. categorical.
 -   Transport: Which transports does the person usually use? categorical.
 -   Body_Level: Class of human body level. 
+
+## 4 body levels(classes):
+* underweight
+* normal weight
+* overweight: Overweight is when a person's weight exceeds the appropriate threshold for their height
+* obese:while obesity is the condition of having an excess amount of body fat with a BMI of over 30
