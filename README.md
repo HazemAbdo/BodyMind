@@ -5,14 +5,6 @@
 - Notebook that contains the project source code
 - Link to Colab Notebook that contains the same content of the notebook
 
-## Team 11 Members
-
-| Name                  | Sec | B.N. |
-| --------------------- | --- | ---- |
-| Ahmed Khaled Mahmoud  | 1   | 5    |
-| Ahmed Sayed           | 1   | 6    |
-| Ahmed Mahmoud Mohamed | 1   | 12   |
-| Hazem Mahmoud Abdo    | 1   | 25   |
 
 ## Project Description:
 
